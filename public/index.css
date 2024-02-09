@@ -1,0 +1,39 @@
+/* @charset "UTF-8"; */
+/* Open up your “My Interests” web page on CodePen and begin to style your page using the CSS editor.
+
+Use CSS to style at least two HTML elements (paragraphs, headings, images etc.)
+
+Add IDs or classes to at least two HTML elements.
+
+Use CSS to style your IDs or classes.
+
+Note that  you can place many HTML elements inside <div></div> tags and then 
+use CSS to style everything between the div tags in the same way, 
+for example: using the same background color or font size.
+*/
+
+body {
+  background-color: #a7d0df;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+ul li {
+	border: 1px solid blue;
+	background-color: lightgray;
+}
+
+ol {
+	padding: 3rem;
+}
+
+.mediumImg{
+	width: 25%;
+}
+
+ #hotelImg {
+	width: 300px;
+} 
